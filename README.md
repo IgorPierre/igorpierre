@@ -9,7 +9,7 @@
 
 - 💻 Graduando em Egenharia da Computação na Universidade Federal do Ceará (UFC)
 - 🎯 Grande interesse em tecnologias web
-- 🌱 Atualmente estudando PHP e ReactJS
+- 🌱 Atualmente estudando PHP, NextJS e Typescript
 
 ### Tecnologias
 
