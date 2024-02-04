@@ -7,9 +7,10 @@
 
 ### Um pouco sobre mim
 
-- 💻 Graduando em Egenharia da Computação na Universidade Federal do Ceará (UFC)
-- 🎯 Grande interesse em tecnologias web
-- 🌱 Atualmente estudando PHP, NextJS e Typescript
+- 💻 Graduando em Egenharia da Computação na Universidade Federal do Ceará (UFC).
+- 🧑‍💻 Desenvolvedor web Junior.
+- 🎯 Grande interesse em tecnologias web.
+- 🌱 Atualmente estudando PHP e Laravel.
 
 ### Tecnologias
 
