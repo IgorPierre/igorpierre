@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-pierre-28b237202/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=github&logoColor=white)](https://igorpierre.github.io/igorpierredev/)
+[![Portfólio](https://igorpierre.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor.pierre7/)
 
 
