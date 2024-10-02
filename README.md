@@ -6,12 +6,12 @@
 
 ## Sobre Mim
 
-Sou graduando em Engenharia da Computação na Universidade Federal do Ceará (UFC) e desenvolvedor web júnior. Minha paixão por tecnologia me levou a explorar diversas ferramentas e frameworks, com um foco especial em desenvolvimento web. Estou sempre em busca de novos desafios e atualmente estou aprimorando minhas habilidades em PHP e Laravel.
+Sou graduando em Engenharia da Computação na Universidade Federal do Ceará (UFC) e atualmente atuo como deselvolvedor de sotfware. Minha paixão por tecnologia me levou a explorar diversas ferramentas e frameworks, com um foco especial em desenvolvimento web. Estou sempre em busca de novos desafios e atualmente estou aprimorando minhas habilidades em PHP e Laravel.
 
 - 🎓 **Formação**: Engenharia da Computação, Universidade Federal do Ceará (UFC)
-- 💻 **Experiência**: Desenvolvimento web com foco em front-end e back-end
+- 💻 **Experiência**: Desenvolvimento web fullstack Laravel
 - 🎯 **Interesses**: Tecnologias web, desenvolvimento de software, boas práticas de programação
-- 🌱 **Estudos Atuais**: PHP, Laravel
+- 🌱 **Estudos Atuais**: PHP, Laravel, Java e Inertia
 
 ## Tecnologias e Ferramentas
 
