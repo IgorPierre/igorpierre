@@ -10,7 +10,7 @@ Sou graduando em Engenharia da Computação na Universidade Federal do Ceará (U
 
 - 🎓 **Formação**: Engenharia da Computação, Universidade Federal do Ceará (UFC)
 - 💻 **Experiência**: Desenvolvimento web fullstack Laravel
-- 🎯 **Interesses**: Tecnologias web, desenvolvimento de software, boas práticas de programação
+- 🎯 **Interesses**: Tecnologias web, desenvolvimento de software e boas práticas de programação
 - 🌱 **Estudos Atuais**: PHP, Laravel, Java e Inertia
 
 ## Tecnologias e Ferramentas
